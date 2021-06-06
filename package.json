@@ -35,7 +35,7 @@
     "@nestjs/typeorm": "7.1.5",
     "class-transformer": "0.4.0",
     "class-validator": "0.13.1",
-    "cloudinary": "1.25.0",
+    "cloudinary": "1.26.0",
     "cross-env": "7.0.3",
     "helmet": "4.4.1",
     "joi": "17.4.0",
